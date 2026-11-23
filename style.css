@@ -1,3 +1,40 @@
+*:focus-visible{
+  outline: 2px;
+  border-radius: 3px;
+}
+*{
+  font-size: 1.1rem;
+}
+
+h1{
+  font-size: 2.5rem;
+}
+h2{
+  font-size: 1.6rem;
+}
+h3{
+  font-size: 1.21rem;
+}
+
+
+img{
+  max-width: 100%;
+  max-height: 20rem;
+}
+
+.card{
+  border-radius: 10px;
+  border-color: rgba(25, 25, 210, 0.5);
+  padding: 10px;
+  margin: 5px;
+}
+
+
+
+
+
+
+
 @media (min-width: 40em) {
   /* TODO */
 }
